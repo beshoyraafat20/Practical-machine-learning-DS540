@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+tensorflow
+
+#pip install --upgrade pip && pip install -r requirements.txt
+# terminal امر تسطيب المكتبات يتنفذ في 
